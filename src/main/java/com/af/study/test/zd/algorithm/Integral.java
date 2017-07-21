@@ -3,7 +3,7 @@
  *
  * 周长发编制
  */
-package cn.Yb.Z.code.test.zd.algorithm;
+package com.af.study.test.zd.algorithm;
 
 /**
  * 计算数值积分的类 Integral

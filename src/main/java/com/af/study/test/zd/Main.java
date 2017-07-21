@@ -1,6 +1,6 @@
-package cn.Yb.Z.code.test.zd;
+package com.af.study.test.zd;
 
-import cn.Yb.Z.code.test.zd.algorithm.GrayModel;
+import com.af.study.test.zd.algorithm.GrayModel;
 
 /**
  * Created by zyb on 2017/03/03.

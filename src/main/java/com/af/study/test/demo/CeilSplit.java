@@ -1,4 +1,4 @@
-package cn.Yb.Z.code.test.demo;
+package com.af.study.test.demo;
 
 /**
  * Created by zyb on 2017/03/03.
@@ -11,6 +11,8 @@ public class CeilSplit {
      */
     public static void main(String[] args) {
         System.out.println(split(6));
+        String a = "sss";
+        System.out.println(a.equals(null));
     }
 
     /**

@@ -1,4 +1,4 @@
-package cn.Yb.Z.code.test.zd.algorithm;
+package com.af.study.test.zd.algorithm;
 
 /**
  * 灰色模型算法
